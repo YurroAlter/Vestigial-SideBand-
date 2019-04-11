@@ -1,0 +1,1 @@
+"../PLL.c" "../Transfer.c" "../aic3204.c" "../aic3204_init.c" "../main.c" "../sinewaves.c" "../usbstk5515.c" "../usbstk5515_gpio.c" "../usbstk5515_i2c.c" "../usbstk5515_led.c" 
